@@ -21,8 +21,8 @@ In the future, I plan to **backpack through Australia**, exploring its vibrant l
 ### 🌟 Interests
 
 - Classical machine learning algorithms and their applications 📈  
-- Developing scalable and interpretable machine learning models 📈  
-- Exploring advanced AI topics like **LLMs**, **GANs**, and **RL** 🧠  
+- Developing scalable and interpretable AI/ML models 📈  
+- Exploring advanced AI topics like **Agentic-AI** and **RAG** 🧠  
 - Solving real-world challenges through AI innovation 🌏  
 - Continuously learning and improving my AI and coding skills 🌟    
 
