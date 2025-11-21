@@ -16,23 +16,6 @@ I aim to start my career in the field of AI by contributing to beginner-level ro
 
 In the future, I plan to **backpack through Australia**, exploring its vibrant landscapes and diverse culture. 🌏✨
 
-
----
-
-### 🛠️ My Toolbox
-
-- **Programming Languages**: Python, R, C++, Java  
-- **AI Frameworks**: TensorFlow, PyTorch, Keras
-- **Machine Learning Libraries**: Scikit-learn, XGBoost, LightGBM
-- **Data Analysis and Visualization**: NumPy, Pandas, Matplotlib, Seaborn  
-- **Statistical Tools**: RStudio, SPSS, Bayesian Methods  
-- **Other Skills**:  
-  - Mathematical modeling  
-  - Feature engineering and data preprocessing  
-  - Deep Learning and computer vision (OpenCV, YOLO)   
-  - Team collaboration and problem-solving
-  - Version control: Git, GitHub Actions
-
 ---
 
 ### 🌟 Interests
